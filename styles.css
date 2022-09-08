@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: rgb(243, 213, 242);
+}
+
+.button{
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    margin: 2px;
+    background-color: rgb(166, 36, 155);
+    color: white
+    
+}
+
+
+.inputtext{
+    width: 203px;
+    margin: 5px;
+    font-size: 25px;
+    padding: 5px;
+    background-color: white;
+    border: 3px solid rgb(166, 36, 155);
+
+}
+
+.container{
+    position: absolute;
+    top: 25vh;
+    left: 25vh;
+}
